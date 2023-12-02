@@ -20,7 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ksp-sample"
+rootProject.name = "DependencyInjection-KSP"
 
 include(":annotations")
 include(":processor")
